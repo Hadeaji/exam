@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+* {font-family: 'Roboto', sans-serif;
+    text-align: center;
+
+}
+h1{
+    font-size: 48px;
+
+}
+header {
+    padding-top:  7px;
+    padding-bottom:  7px;
+    margin-bottom:100px;
+    background: rgb(93, 93, 93);
+    color: #F5F5DC;
+
+
+}
+#tableDiv {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    padding: 50px;
+    background: rgba(93, 93, 93 , 0.5);
+    border-radius: 5px;
+    margin: 20px;
+}   
+#formDiv {
+    display: inline-block;
+    width: 20%;
+    padding: 50px;
+    background: rgba(93, 93, 93 , 0.5);
+    border-radius: 5px;
+    margin: 30px;
+
+}
+
+
+#Device_name {
+    margin: 2px auto;
+    border-radius: 3px;
+
+}
+
+#quantity {
+    margin: 2px auto;
+    border-radius: 3px;
+
+}
+#sub {
+    border: none;
+    border-radius: 3px;
+    margin: 2px auto;
+    height: 30px;
+    width: 154.4px;
+    background-color:  rgb(93, 93, 93 );
+    color: #F5F5DC;
+
+}
+
+form label,form input{
+    display: block;
+
+}
+
+
+
+th ,td{
+    background-color: #F5F5DC;
+    padding: 5px;
+}
+
+table{
+    margin: auto;
+}
+
+table, tr,th ,td{
+    border: 5px ;
+    padding: 4px;
+
+}
+
+
+#catagory {
+    width: 154px;
+    height: 22px;
+    padding: 1px 2px;
+    margin-bottom: 19px;
+    text-align: center;
+    border-radius: 3px;
+
+}
+
+option{
+    text-align: center;
+}
